@@ -1,0 +1,184 @@
+body{
+    background-image: url("images.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.titulo{
+    text-align: center;
+    color: darkcyan;
+    height: 1vh;
+}
+.nm{
+    text-align: center;
+    font-style: italic;
+    color: darkred;
+}
+.el{
+    text-align: center;
+    font-style: italic;
+    color: darkred;
+}
+.pd{
+ color: darkred;
+ font-style: italic;
+ text-align: center;
+}
+.container input[type="text"] {
+    display: block;
+    margin: 0 auto;
+    
+}
+.container input[type="email"] {
+    display: block;
+    margin: 0 auto;
+    
+}
+.container input[type="text"] {
+    display: block;
+    margin: 0 auto;
+    
+}
+.container input[type="text"] {
+    display: block;
+    margin: 0 auto;
+    
+}
+.container input[type="password"] {
+    display: block;
+    margin: 0 auto;
+}
+.CS{
+    display: block;
+    margin:  0 auto;
+    color: darkturquoise;
+    background-color: transparent;
+    font-style: italic;
+}
+.titulo2{
+    text-align: center;
+    color: darkcyan;
+    height: 1vh;
+}
+
+.De{
+    background-color: transparent;
+    color: darkorange;
+    font-style: italic;
+}
+.Atu{
+    background-color: transparent;
+    color: darkorchid;
+    font-style: italic;
+}
+.Deta{
+    background-color: transparent;
+    color: darkred;
+    font-style: italic;
+}
+
+.ct{
+    color:green;
+    font-size: 1rem;
+    font-style: italic;
+
+}
+
+.lg{
+    color: crimson;
+    font-size: 1rem;
+    font-style: italic;
+}
+
+.US{
+    color: darkorchid;
+    font-size: 1rem;
+    font-style: italic;
+}
+
+
+.DU {
+     color: darkturquoise;
+     font-style: italic;
+}
+
+.DI {
+     color: aqua;
+     font-style: italic;
+}
+
+.NM {
+      color: aqua;
+      font-style: italic;
+}
+
+.EML {
+       color: aqua;
+       font-style: italic;
+}
+
+.titulo3{
+    text-align: center;
+    height: 1vh;
+    color: darkcyan;
+}
+
+.eal{
+    font-size: 1rem;
+    color: darkturquoise;
+    font-style: italic;
+    text-align: center;
+}
+
+.container2 input[type="email"] {
+      display: block;
+      margin: 0 auto;
+}
+
+.emal {
+    text-align: center;
+    color: darkred;
+    font-style: italic;
+}
+
+.container2 input[type="password"] {
+    display: block;
+    margin: 0 auto;
+}
+
+.PS{
+    text-align: center;
+    color: darkred;
+    font-style: italic;
+}
+
+.su {
+    display: block;
+    margin: 0 auto;
+    background-color: transparent;
+    color: aqua;
+    font-style: italic;
+}
+
+.tabel{
+   color: fuchsia;
+   font-size: 1rem;
+   font-style: italic;
+}
+
+.UI{
+   color: aquamarine;
+   font-size: 1rem;
+   font-style: italic; 
+}
+
+.UN{
+    color: aquamarine;
+    font-size: 1rem;
+    font-style: italic;
+}
+
+.UE{
+    color: aquamarine;
+    font-size: 1rem;
+    font-style: italic;
+}
